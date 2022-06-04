@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "vecs"
+name = "university"
 version = "0.1.0"
